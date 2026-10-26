@@ -6,7 +6,7 @@
 
 > 手机号码归属地查询 · 批量号码筛选 · 空号查询 · 号码导出 Excel · 离线单文件
 
-![界面预览](preview.png)
+![界面预览](https://gooooddayy.github.io/L1-Bulk-Mobile-Number-Location-Lookup/preview.png)
 
 ---
 
